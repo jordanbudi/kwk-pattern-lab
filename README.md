@@ -6,7 +6,7 @@ Patterns are all around us. From architecture to fashion, patterns can be seen e
 
 ![patterns](https://s3.amazonaws.com/upperline/curriculum-assets/patterns-everywhere.png)
 
-Your mission is to create a series of patterns using Ruby. 
+Your mission is to create a series of diamond patterns using Ruby. 
 
 ### Part I: The Diamond
 Create a program that will print the following diamond:
@@ -23,7 +23,7 @@ Create a program that will print the following diamond:
     *
 ```
 
-(The height and the width of the half-diamonds pictured above are 4 with a gap of size 2 separating them.) 
+(The width and height of the diamond pictured above is 9; it's largest row being of length 9 and 9 rows total.) 
 
 ### Part II: User Specified Height
 
@@ -31,7 +31,7 @@ Add a new feature to your program that asks a user how tall they would like to m
 
 ### Part III: Chained Diamonds
 
-Modify your code to prompt the user for the number of diamonds they want. Using this number, stack the diamonds on top of each other in a chain. This would be an example of a diamond with height of 4 and chain length of 3:
+Modify your code to prompt the user for the number of diamonds they want. Using this number, stack the diamonds on top of each other in a chain. This would be an example of a diamond with a size of 6 and chain length of 3:
 
 ```
     *
